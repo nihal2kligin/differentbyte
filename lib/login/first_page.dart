@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:differentbyte/home_page.dart/profile_page.dart';
+import 'package:differentbyte/home_page/profile_page.dart';
 import 'package:differentbyte/models/login_model.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
