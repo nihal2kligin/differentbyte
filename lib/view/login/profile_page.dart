@@ -1,7 +1,7 @@
 // ignore_for_file: dead_code
 
 import 'package:flutter/material.dart';
-import '../models/login_model.dart';
+import '../../models/login_model.dart';
 
 class ProfilePage extends StatelessWidget {
   final LoginModel loginModel;

@@ -1,4 +1,4 @@
-import 'package:differentbyte/login/first_page.dart';
+import 'package:differentbyte/view/login/first_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
